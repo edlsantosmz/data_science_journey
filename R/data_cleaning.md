@@ -27,3 +27,6 @@ We can use tidyr’s gather() function to do this transformation. gather() takes
 df %>%
   gather('Checking','Savings',key='Account Type',value='Amount')
 ```
+
+## Splitting By Index
+In trying to get clean data, we want to make sure each column represents one type of measurement. Often, multiple measurements are recorded in the same column, and we want to separate these out so that we can do individual analysis on each variable.
