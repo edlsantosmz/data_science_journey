@@ -1,5 +1,5 @@
 # Additional Resources
-Here are some additional resources to check out that will help you throughout your Path. While the books listed are recommended and will help you on your data science journey, reading them is OPTIONAL. If you prefer not to use them when they appear along the way, just click the ‘Next’ button to move forward to the next content item.
+Here are some additional resources to check out that will help you throughout your Path. While the books listed are recommended and will help you on your data science journey, reading them is OPTIONAL. 
 
 * Documentation: The Python Standard Library
 * Book: A Whirlwind Tour of Python, Jake VanderPlas
